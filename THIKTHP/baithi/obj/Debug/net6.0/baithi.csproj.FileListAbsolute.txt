@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\THIKTHP\baithi\bin\Debug\net6.0\baithi.exe
+C:\Users\Admin\Desktop\THIKTHP\baithi\bin\Debug\net6.0\baithi.deps.json
+C:\Users\Admin\Desktop\THIKTHP\baithi\bin\Debug\net6.0\baithi.runtimeconfig.json
+C:\Users\Admin\Desktop\THIKTHP\baithi\bin\Debug\net6.0\baithi.dll
+C:\Users\Admin\Desktop\THIKTHP\baithi\bin\Debug\net6.0\baithi.pdb
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\baithi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\baithi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\baithi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\baithi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\baithi.dll
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\refint\baithi.dll
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\baithi.pdb
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\baithi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\THIKTHP\baithi\obj\Debug\net6.0\ref\baithi.dll
